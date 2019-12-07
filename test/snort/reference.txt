@@ -1,0 +1,6 @@
+https://www.youtube.com/watch?v=RwWM0srLSg0&t=1451s
+
+
+snort -W
+snort -i 3 -c C:\Snort\etc\snort.conf -T
+snort -i 3 -c C:\Snort\etc\snort.conf -A console
